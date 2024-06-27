@@ -40,5 +40,5 @@
   <img src="https://images.seeklogo.com/logo-png/52/2/microsoft-power-automate-logo-png_seeklogo-522770.png" height="40" alt="PowerPlatform logo" />
 </div>
 <h2 align="left"> Social Networks</h2>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-vera-ceca-955700229/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:2002martinvc@gmail.com)](mailto:2002martinvc@gmail.com)
+<a href="https://www.linkedin.com/in/mart%C3%ADn-vera-ceca-955700229/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="mailto:2002martinvc@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
