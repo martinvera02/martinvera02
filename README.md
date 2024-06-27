@@ -4,7 +4,7 @@
 </abc>
 <h2 align="left">👨🏻‍💻 About Me</h2>
 <p align="left">
-✨ Crafting code since [2024]<br>
+✨ Crafting code since [2023]<br>
 📚 Currently enhancing my skills in [Current Learning Focus]<br>
 🎯 Goals: I'm highly motivated, flexible, and have a strong capacity for learning. I'm currently seeking an opportunity to start my professional career.<br>
 🎲 Fun fact: I love design, architecture, and constantly learning new things.
@@ -26,5 +26,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 <h2 align="left"> Social Networks</h2>
-[![Linkedin Badge](https://img.shields.io/badge/-martín-vera-ceca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mart%C3%ADn-vera-ceca-955700229/)
-[![Gmail Badge](https://img.shields.io/badge/-2002martinvc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2002martinvc@gmail.com)](mailto:2002martinvc@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-vera-ceca-955700229/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:2002martinvc@gmail.com)](mailto:2002martinvc@gmail.com)
