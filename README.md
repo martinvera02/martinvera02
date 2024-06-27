@@ -1,6 +1,6 @@
-<h2 align="left">Hey <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> What's up?</h2>
+<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> What's up?</h1>
 <abc>
-<p align="left"> Hi, I'm Martín! I'm a dedicated Junior Front End developer :computer:</p>
+<h3 align="center"> Hi, I'm Martín! a 21 years dedicated Junior Front End developer :computer:</h3>
 </abc>
 <h2 align="left">👨🏻‍💻 About Me</h2>
 <p align="left">
@@ -8,6 +8,12 @@
 📚 Currently enhancing my skills in [Current Learning Focus]<br>
 🎯 Goals: I'm highly motivated, flexible, and have a strong capacity for learning. I'm currently seeking an opportunity to start my professional career.<br>
 🎲 Fun fact: I love design, architecture, and constantly learning new things.
+</p>
+<h2 align="left">💬 Skills</h2>
+<p align="left">
+  - Frontend wen development (Html, CSS, JS)<br>
+  - Backend web development (Python, Django)<br>
+  - Microsoft Power Platform (Power Automate, Power Apps, Sharepoint)<br>
 </p>
 <h2 align="left">:hammer_and_wrench: Technologies I Work With</h2>
 <div align="left">
@@ -24,6 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Microsoft_Power_Platform_logo.svg/1024px-Microsoft_Power_Platform_logo.svg.png" height="40" alt="PowerPlatform logo" />
+  <img width="12" />
+  <img src="https://images.seeklogo.com/logo-png/52/2/microsoft-power-automate-logo-png_seeklogo-522770.png" height="40" alt="PowerPlatform logo" />
 </div>
 <h2 align="left"> Social Networks</h2>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-vera-ceca-955700229/)
