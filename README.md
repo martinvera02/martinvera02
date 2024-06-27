@@ -5,7 +5,7 @@
 <h2 align="left">👨🏻‍💻 About Me</h2>
 <p align="left">
 ✨ Crafting code since [2023]<br>
-📚 Currently enhancing my skills in [Current Learning Focus]<br>
+📚 Currently enhancing my skills in [JavaScript]<br>
 🎯 Goals: I'm highly motivated, flexible, and have a strong capacity for learning. I'm currently seeking an opportunity to start my professional career.<br>
 🎲 Fun fact: I love design, architecture, and constantly learning new things.
 </p>
