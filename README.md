@@ -15,7 +15,7 @@
 </p>
 <h2 align="left">💬 Skills</h2>
 <p align="left">
-  - Frontend wen development (Html, CSS, JS)<br>
+  - Frontend web development (Html, CSS, JS)<br>
   - Backend web development (Python, Django)<br>
   - Microsoft Power Platform (Power Automate, Power Apps, Sharepoint)<br>
 </p>
