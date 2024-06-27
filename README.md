@@ -1,6 +1,7 @@
 <h1 align="center">Hey <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> What's up?</h1>
 <abc>
 <h3 align="center"> Hi, I'm Martín! a 21 years dedicated Junior Front End developer :computer:</h3>
+  <img src=".webp" alt="Banner"></a>
 </abc>
 <h2 align="left">👨🏻‍💻 About Me</h2>
 <p align="left">
