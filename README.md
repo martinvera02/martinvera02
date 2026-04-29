@@ -1,23 +1,47 @@
-<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> What's up?</h1>
+<h1 align="center">Frontend Developer | JavaScript • React • Full-Stack Foundations</h1>
 <abc>
 <h3 align="center"> Hi, I'm Martín! a 23 years dedicated Junior Front End developer :computer:</h3>
 <div align="center">
   <img src="https://i.pinimg.com/originals/57/0e/d5/570ed5235d079942b046e31500f3af87.gif" alt="Banner">
 </div>
+<p align="center">
+Building modern web applications with a focus on performance, usability and real-world impact.
+</p>
 
 </abc>
 <h2 align="left">👨🏻‍💻 About Me</h2>
 <p align="left">
-✨ Crafting code since [2023]<br>
-📚 Currently enhancing my skills in [JavaScript]<br>
-🎯 Goals: I'm highly motivated, flexible, and have a strong capacity for learning. I'm currently seeking an opportunity to start my professional career.<br>
-🎲 Fun fact: I love design, architecture, and constantly learning new things.
+Frontend developer focused on creating **functional, scalable and user-centered applications**.
+
+- 💻 Specialized in **JavaScript, React and modern web development**
+- 🧠 Building full-stack apps using **Supabase (Auth, DB, APIs)**
+- ☁️ Deploying and scaling projects with **Vercel**
+- ⚙️ Experience with **Python & Django** and automation tools like Power Platform
+- 📈 Constantly improving through real projects and problem-solving
+
 </p>
-<h2 align="left">💬 Skills</h2>
+<h2 align="left">🛠 Tech Stack</h2>
 <p align="left">
-  - Frontend web development (Html, CSS, JS)<br>
-  - Backend web development (Python, Django)<br>
-  - Microsoft Power Platform (Power Automate, Power Apps, Sharepoint)<br>
+  
+ **Frontend**
+- JavaScript (ES6+)
+- React
+- HTML5, CSS3, Bootstrap
+
+**Backend / BaaS**
+- Supabase (Authentication, PostgreSQL, Realtime, APIs)
+- Python, Django
+
+**Deployment & Tools**
+- Vercel
+- Git & GitHub
+
+**Database**
+- MySQL
+- PostgreSQL (Supabase)
+
+**Other**
+- Microsoft Power Platform (Power Automate, Power Apps, SharePoint)
 </p>
 <h2 align="left">:hammer_and_wrench: Technologies I Work With</h2>
 <div align="left">
@@ -41,6 +65,31 @@
   <img width="12" />
   <img src="https://images.seeklogo.com/logo-png/52/2/microsoft-power-automate-logo-png_seeklogo-522770.png" height="40" alt="PowerPlatform logo" />
 </div>
-<h2 align="left"> Social Networks</h2>
+
+## 🔥 Featured Projects
+
+### 🍺 Beer League
+> Web application for managing a beer-based competition system.
+
+- Full-stack app using **Supabase for backend and data management**
+- Dynamic frontend built with React
+- Real-time or structured data handling
+- Deployed environment ready for users
+
+🔗 https://github.com/martinvera02/beer-league
+
+## 📊 What I'm Currently Working On
+
+- Improving React architecture and state management  
+- Building scalable full-stack apps with Supabase  
+- Exploring automation and AI integrations
+
+## ⚡ Strengths
+
+- Clean and structured code  
+- Fast learner with strong problem-solving mindset  
+- Focus on building real, usable applications  
+
+<h2 align="left">📫 Contact</h2>
 <a href="https://www.linkedin.com/in/mart%C3%ADn-vera-ceca-955700229/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="mailto:2002martinvc@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
