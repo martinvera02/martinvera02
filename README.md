@@ -1,4 +1,4 @@
-<h1 align="center">Frontend Developer | JavaScript • React • Full-Stack Foundations</h1>
+<h1 align="center">Full Stack Developer | JavaScript • React • AI BIG DATA</h1>
 <abc>
 <h3 align="center"> Hi, I'm Martín! a 23 years dedicated Junior Front End developer :computer:</h3>
 <div align="center">
