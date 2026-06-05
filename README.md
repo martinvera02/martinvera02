@@ -90,69 +90,7 @@ Full Stack Developer with hands-on experience in **React, Node.js and TypeScript
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Microsoft_Power_Platform_logo.svg/1024px-Microsoft_Power_Platform_logo.svg.png" height="40" alt="Power Platform" />
 </div>
 
----
 
-## 🔥 Featured Projects
-
-### 🏆 LeagueHub — Social Platform
-> Full-stack social platform with leagues, global rankings, real-time chat, social feed and a dynamic marketplace.
-
-- **Stack**: ReactJS 19, TypeScript, Vite, Tailwind CSS, Framer Motion, Node.js, Supabase, Vercel
-- Automated season resets with **GitHub Actions**
-- Real-time features with **Supabase Realtime**
-
-🔗 [github.com/martinvera02/leaguehub](https://github.com/martinvera02/leaguehub)
-
----
-
-### 📋 Gestión de Imputaciones — Corporate App
-> Full-stack corporate app for time management with RBAC, real-time notifications, metrics dashboard and report exports.
-
-- **Stack**: ReactJS, TypeScript, Node.js, Supabase, PostgreSQL, Vercel
-
----
-
-### 📊 SpainData Explorer — Data Dashboard
-> Interactive dashboard with open INE data, ETL pipeline in Python, custom REST API with FastAPI and D3.js visualizations.
-
-- **Stack**: ReactJS, TypeScript, FastAPI, D3.js, Recharts, pandas
-
-🔗 [github.com/martinvera02/spaindata-explorer](https://github.com/martinvera02/spaindata-explorer)
-
----
-
-### 🧠 FaceEmotion Detector — Computer Vision
-> Real-time facial expression detection system using a CNN trained on the FER-2013 dataset (7 emotions, ~35,000 images).
-
-- **Stack**: Python, TensorFlow/Keras, OpenCV, NumPy, AWS (S3, Lambda, Rekognition)
-- Integrated with **Amazon Rekognition** and deployed on **AWS Lambda**
-
----
-
-### 🏠 HousePrice Predictor — Machine Learning
-> Regression model for housing price prediction with MAE < 8%. Full pipeline: EDA, feature engineering, model comparison.
-
-- **Stack**: Python, scikit-learn, XGBoost, pandas, Azure ML, MLflow
-- Deployed on **Azure ML** as a REST endpoint
-
----
-
-### 📈 SalesInsight Dashboard — Big Data & Analytics
-> Full ETL pipeline on a retail sales dataset (>500,000 records): extraction, cleaning, transformation and load into PostgreSQL.
-
-- **Stack**: Python, pandas, PostgreSQL, Streamlit, Power BI
-- Daily automation with **GitHub Actions**
-
----
-
-### 🧩 PriceRadar — Chrome Extension
-> MV3 Chrome extension that detects prices on e-commerce sites and cross-references them with historical data via external APIs.
-
-- **Stack**: React, Node.js, Express, Chrome Extensions API MV3
-
-🔗 [github.com/martinvera02/priceradar-extension](https://github.com/martinvera02/priceradar-extension)
-
----
 
 ## 📊 What I'm Currently Working On
 
